@@ -1,9 +1,46 @@
+# OS / editor
 .DS_Store
-/.build
-/Packages
-/dist
+**/.DS_Store
+.idea/
+.vscode/
+.cursor/
+*.swp
+*~
+
+# Swift / Xcode build products
+/.build/
+/Packages/
+/dist/
+*.xcodeproj/
+*.xcworkspace/
 xcuserdata/
 DerivedData/
-.swiftpm/configuration/registries.json
-.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
+.swiftpm/
+Package.resolved
+
+# Credentials & local secrets (never commit)
+.env
+.env.*
 .netrc
+*.pem
+*.p12
+*.p8
+*.key
+*.cer
+id_rsa
+id_ed25519
+**/credentials*
+**/secrets*
+AuthKey_*.p8
+google-services.json
+GoogleService-Info.plist
+
+# Local packaging leftovers
+*.dmg
+*.app/
+AppIcon.iconset/
+icon-1024.png
+
+# Crash / debug dumps
+*.crash
+*.ips
