@@ -1,13 +1,29 @@
-# MacNetSpeed — Free macOS Menu Bar Network Speed Monitor
+<p align="center">
+  <img src="docs/assets/logo.png" alt="MacNetSpeed logo — macOS menu bar network speed monitor app icon with blue download and red upload graph" width="128" height="128" />
+</p>
 
-**MacNetSpeed** is a free, lightweight **macOS menu bar network speed monitor** that shows live **download and upload speed**, **data received / data sent**, and an Activity Monitor–style graph. Built for people who want accurate bandwidth reporting without heavy apps, misleading meters, or constant CPU drain.
+<p align="center">
+  <img src="docs/assets/hero.png" alt="MacNetSpeed hero banner — free macOS menu bar network speed monitor showing live download, upload, data received, and Activity Monitor-style graph" width="100%" />
+</p>
 
-[![Download MacNetSpeed DMG](https://img.shields.io/github/v/release/Inzamam-SEO/MacNetSpeed?label=Download%20DMG&color=0A84FF)](https://github.com/Inzamam-SEO/MacNetSpeed/releases/latest/download/MacNetSpeed.dmg)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![macOS 14+](https://img.shields.io/badge/macOS-14%2B-black)](https://github.com/Inzamam-SEO/MacNetSpeed/releases/latest)
-[![GitHub Stars](https://img.shields.io/github/stars/Inzamam-SEO/MacNetSpeed?style=social)](https://github.com/Inzamam-SEO/MacNetSpeed)
+<h1 align="center">MacNetSpeed — Free macOS Menu Bar Network Speed Monitor</h1>
 
-**[Download MacNetSpeed for Mac (DMG)](https://github.com/Inzamam-SEO/MacNetSpeed/releases/latest/download/MacNetSpeed.dmg)** · **[Latest release](https://github.com/Inzamam-SEO/MacNetSpeed/releases/latest)** · **[Product page](https://inzamam-seo.github.io/MacNetSpeed/)**
+<p align="center">
+<strong>MacNetSpeed</strong> is a free, lightweight <strong>macOS menu bar network speed monitor</strong> that shows live <strong>download and upload speed</strong>, <strong>data received / data sent</strong>, and an Activity Monitor–style graph. Built for people who want accurate bandwidth reporting without heavy apps, misleading meters, or constant CPU drain.
+</p>
+
+<p align="center">
+<a href="https://github.com/Inzamam-SEO/MacNetSpeed/releases/latest/download/MacNetSpeed.dmg"><img src="https://img.shields.io/github/v/release/Inzamam-SEO/MacNetSpeed?label=Download%20DMG&color=0A84FF" alt="Download MacNetSpeed DMG" /></a>
+<a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT" /></a>
+<a href="https://github.com/Inzamam-SEO/MacNetSpeed/releases/latest"><img src="https://img.shields.io/badge/macOS-14%2B-black" alt="macOS 14+" /></a>
+<a href="https://github.com/Inzamam-SEO/MacNetSpeed"><img src="https://img.shields.io/github/stars/Inzamam-SEO/MacNetSpeed?style=social" alt="GitHub Stars" /></a>
+</p>
+
+<p align="center">
+<strong><a href="https://github.com/Inzamam-SEO/MacNetSpeed/releases/latest/download/MacNetSpeed.dmg">Download MacNetSpeed for Mac (DMG)</a></strong> ·
+<strong><a href="https://github.com/Inzamam-SEO/MacNetSpeed/releases/latest">Latest release</a></strong> ·
+<strong><a href="https://inzamam-seo.github.io/MacNetSpeed/">Product page</a></strong>
+</p>
 
 ---
 
