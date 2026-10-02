@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://inzamam-seo.github.io/MacNetSpeed/sitemap.xml
